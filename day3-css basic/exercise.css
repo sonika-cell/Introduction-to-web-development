@@ -1,0 +1,24 @@
+main {
+  border: 2px solid black;
+  width: 300px;
+  margin: 40px auto;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  background: gray;
+  color: white;
+  padding: 10px;
+}
+
+img {
+  width: 200px;
+  height: 150px;
+  margin: 15px 0;
+}
+
+footer {
+  margin-top: 15px;
+  font-size: 12px;
+}
